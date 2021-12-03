@@ -1,0 +1,23 @@
+.currency-items {
+  display: flex;
+  justify-content: center;
+  // flex-direction: column;
+  margin: 0 auto;
+  padding: 0.7rem;
+  align-items: center;
+  &__title {
+    padding: 0.5rem;
+  }
+  &__input {
+    display: flex;
+    text-align: center;
+
+    padding-top: 1rem;
+    width: 4rem;
+  }
+  &__output {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+  }
+}

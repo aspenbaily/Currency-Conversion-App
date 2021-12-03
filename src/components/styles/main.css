@@ -1,0 +1,322 @@
+@font-face {
+  font-family: "Raleway";
+  src: url("./partials/fonts/Raleway-BlackItalic.woff") format("woff");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Raleway";
+  src: url("./partials/fonts/Raleway-Black.woff2") format("woff2"), url("./partials/fonts/Raleway-Black.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Raleway";
+  src: url("./partials/fonts/Raleway-ExtraBold.woff2") format("woff2"), url("./partials/fonts/Raleway-ExtraBold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Raleway";
+  src: url("./partials/fonts/Raleway-ExtraBoldItalic.woff2") format("woff2"), url("./partials/fonts/Raleway-ExtraBoldItalic.woff") format("woff");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Raleway";
+  src: url("./partials/fonts/Raleway-Bold.woff2") format("woff2"), url("./partials/fonts/Raleway-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Raleway";
+  src: url("./partials/fonts/Raleway-BoldItalic.woff2") format("woff2"), url("./partials/fonts/Raleway-BoldItalic.woff") format("woff");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Raleway";
+  src: url("./partials/fonts/Raleway-ExtraLight.woff2") format("woff2"), url("./partials/fonts/Raleway-ExtraLight.woff") format("woff");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Raleway";
+  src: url("./partials/fonts/Raleway-ThinItalic.woff2") format("woff2"), url("./partials/fonts/Raleway-ThinItalic.woff") format("woff");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Raleway";
+  src: url("./partials/fonts/Raleway-LightItalic.woff2") format("woff2"), url("./partials/fonts/Raleway-LightItalic.woff") format("woff");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Raleway";
+  src: url("./partials/fonts/Raleway-ExtraLightItalic.woff2") format("woff2"), url("./partials/fonts/Raleway-ExtraLightItalic.woff") format("woff");
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Raleway";
+  src: url("./partials/fonts/Raleway-Light.woff2") format("woff2"), url("./partials/fonts/Raleway-Light.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Raleway";
+  src: url("./partials/fonts/Raleway-Medium.woff2") format("woff2"), url("./partials/fonts/Raleway-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Raleway";
+  src: url("./partials/fonts/Raleway-Italic.woff2") format("woff2"), url("./partials/fonts/Raleway-Italic.woff") format("woff");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Raleway";
+  src: url("./partials/fonts/Raleway-ThinItalic.woff2") format("woff2"), url("./partials/fonts/Raleway-ThinItalic.woff") format("woff");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Raleway";
+  src: url("./partials/fonts/Raleway-MediumItalic.woff2") format("woff2"), url("./partials/fonts/Raleway-MediumItalic.woff") format("woff");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Raleway";
+  src: url("./partials/fonts/Raleway-SemiBold.woff2") format("woff2"), url("./partials/fonts/Raleway-SemiBold.woff") format("woff");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Raleway";
+  src: url("./partials/fonts/Raleway-Thin.woff2") format("woff2"), url("./partials/fonts/Raleway-Thin.woff") format("woff");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Raleway";
+  src: url("./partials/fonts/Raleway-SemiBoldItalic.woff2") format("woff2"), url("./partials/fonts/Raleway-SemiBoldItalic.woff") format("woff");
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Raleway";
+  src: url("./partials/fonts/Raleway-Regular.woff2") format("woff2"), url("./partials/fonts/Raleway-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Raleway";
+  src: url("./partials/fonts/Raleway-Thin.woff2") format("woff2"), url("./partials/fonts/Raleway-Thin.woff") format("woff");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+.countries {
+  list-style-type: none;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.countries-list {
+  padding: 2rem;
+  border-radius: 1rem;
+  -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+          box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  -webkit-transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+  margin: 2rem;
+}
+
+.countries-list __data {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.countries-list:hover {
+  -webkit-box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+          box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
+
+.flag-list {
+  height: 15rem;
+  width: 30rem;
+}
+
+.search {
+  padding: 1rem 0 1rem 3rem;
+  width: 100%;
+  padding-left: 3rem;
+  outline: none;
+  border: none;
+  font-size: 1.5rem;
+  border-bottom: solid 1px rgba(0, 0, 0, 0.2);
+  padding: 1rem 0 1rem 1rem;
+  margin-bottom: 2rem;
+}
+
+.text-input {
+  padding-left: 3rem;
+  border: none;
+  font-size: 1.5rem;
+  border-bottom: solid 1px rgba(0, 0, 0, 0.2);
+  padding: 1rem 0 1rem 1rem;
+  margin-bottom: 2rem;
+}
+
+.text-input:focus {
+  outline: none;
+}
+
+.country-page {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin: 0 auto;
+  width: 75%;
+  border-radius: 1rem;
+  -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+          box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  -webkit-transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+}
+
+.country-page-data {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 2rem;
+  list-style-type: none;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin: 0 auto;
+  width: 80%;
+}
+
+.country-page-data__details {
+  padding-bottom: 0.5rem;
+}
+
+.flag {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -ms-flex-item-align: center;
+      align-self: center;
+  margin: 0 auto;
+  width: 80%;
+}
+
+.currency-items {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin: 0 auto;
+  padding: 0.7rem;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.currency-items__title {
+  padding: 0.5rem;
+}
+
+.currency-items__input {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  text-align: center;
+  padding-top: 1rem;
+  width: 4rem;
+}
+
+.currency-items__output {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  text-align: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-family: "Raleway";
+  margin: 0;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+/*# sourceMappingURL=main.css.map */
